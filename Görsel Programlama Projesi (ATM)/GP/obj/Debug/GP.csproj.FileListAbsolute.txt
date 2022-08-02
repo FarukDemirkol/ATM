@@ -1,0 +1,2 @@
+C:\Users\Faruk\Desktop\Görsel Programlama Projesi (ATM)\GP\obj\Debug\GP.csproj.AssemblyReference.cache
+C:\Users\Faruk\Desktop\Görsel Programlama Projesi (ATM)\GP\obj\Debug\GP.csproj.SuggestedBindingRedirects.cache
